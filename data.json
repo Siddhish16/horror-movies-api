@@ -117,5 +117,12 @@
         "yearReleased": "2022",
         "language": "English",
         "director": "Ti West"
+    },
+    {
+        "id": 20,
+        "name":"Pearl",
+        "yearRelease": "2022",
+        "language": "English",
+        "director": "Ti West"
     }
 ]
